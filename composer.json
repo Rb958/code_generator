@@ -1,6 +1,7 @@
 {
     "name": "rb/code_generator",
     "description": "",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Richie Bayless",
